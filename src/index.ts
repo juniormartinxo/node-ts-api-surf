@@ -1,1 +1,1 @@
-console.log('C tá bão?')
+console.log('C tá bão?');
